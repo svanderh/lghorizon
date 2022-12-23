@@ -9,6 +9,6 @@
   "iot_class": "cloud_push",
   "config_flow": true,
   "requirements": [
-    "lghorizon>=0.5.12"
+    "lghorizon>=0.5.15"
   ]
 }
